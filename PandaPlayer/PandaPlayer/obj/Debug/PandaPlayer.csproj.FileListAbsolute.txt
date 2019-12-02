@@ -1,0 +1,6 @@
+C:\Users\mesha\source\repos\PandaPlayer\PandaPlayer\bin\Debug\PandaPlayer.exe.config
+C:\Users\mesha\source\repos\PandaPlayer\PandaPlayer\bin\Debug\PandaPlayer.exe
+C:\Users\mesha\source\repos\PandaPlayer\PandaPlayer\bin\Debug\PandaPlayer.pdb
+C:\Users\mesha\source\repos\PandaPlayer\PandaPlayer\obj\Debug\PandaPlayer.csprojAssemblyReference.cache
+C:\Users\mesha\source\repos\PandaPlayer\PandaPlayer\obj\Debug\PandaPlayer.exe
+C:\Users\mesha\source\repos\PandaPlayer\PandaPlayer\obj\Debug\PandaPlayer.pdb
